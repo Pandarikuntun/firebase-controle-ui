@@ -1,0 +1,14 @@
+{
+  "device": {
+    "fan1": 100,
+    "out1": false,
+    "out2": false,
+    "out3": false,
+    "out4": false
+  },
+  "fan": 0,
+  "out1": false,
+  "out2": false,
+  "out3": false,
+  "out4": false
+}
